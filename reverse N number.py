@@ -1,2 +1,2 @@
-N=input()
-print("".join(reversed(N)))
+M=input()
+print("".join(reversed(M)))
