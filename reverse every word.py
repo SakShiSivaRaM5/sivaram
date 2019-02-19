@@ -1,7 +1,7 @@
 s=input()
-l=list(s.split())
+k=list(s.split())
 q=[]
 s=''
-for i in range(len(l)):
-	s+=l[i][::-1]+' '
+for j in range(len(k)):
+	s+=k[j][::-1]+' '
 print(s)
