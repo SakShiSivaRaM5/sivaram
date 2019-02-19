@@ -1,7 +1,3 @@
-s=input()
-k=list(s.split())
-q=[]
-s=''
-for j in range(len(k)):
-	s+=k[j][::-1]+' '
-print(s)
+str=input('')
+h=' '.join(w[::-1] for w in str.split())
+print(h)
