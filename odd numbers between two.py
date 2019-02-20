@@ -1,5 +1,5 @@
 z=int(input())
 y=int(input())
-for j in range(z+1,y):
-	if(j%2!=0):
-		print(j)
+for i in range(z+1,y):
+	if(i%2!=0):
+		print(i)
