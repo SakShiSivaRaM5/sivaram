@@ -6,6 +6,6 @@ while temp>0:
     i=i+num**3
     temp=temp//10
 if(i==e):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
