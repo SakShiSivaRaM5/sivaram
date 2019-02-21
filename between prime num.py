@@ -4,4 +4,4 @@ for m2 in range(m1+1,m2):
 		if(m2%l==0):
 		   break
 	else:
-		print(m2,end=' ')
+		print(m2,end='')
